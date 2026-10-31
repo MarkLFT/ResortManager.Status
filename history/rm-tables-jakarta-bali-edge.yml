@@ -1,7 +1,7 @@
 url: https://qa-admin.rm-tables.com/health/ready
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2026-10-31T02:57:42.820Z
+status: down
+code: 503
+responseTime: 548
+lastUpdated: 2026-10-31T07:34:00.915Z
 startTime: 2026-10-31T02:28:00.851Z
 generator: Upptime <https://github.com/upptime/upptime>
