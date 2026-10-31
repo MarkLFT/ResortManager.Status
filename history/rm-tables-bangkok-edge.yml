@@ -1,7 +1,7 @@
-url: https://tables.resort-manager.com/healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-10-31T02:27:58.925Z
+url: https://qa-admin.rm-tables.com/health/ready
+status: up
+code: 200
+responseTime: 733
+lastUpdated: 2026-10-31T02:57:38.646Z
 startTime: 2026-10-31T02:27:43.496Z
 generator: Upptime <https://github.com/upptime/upptime>
