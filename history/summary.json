@@ -1,0 +1,282 @@
+[
+  {
+    "name": "RM-Flex (Singapore Hub)",
+    "url": "https://api.resort-manager.com/healthz",
+    "icon": "https://resort-manager.com/img/icon-flex.webp",
+    "slug": "rm-flex-singapore-hub",
+    "status": "down",
+    "uptime": "14.53%",
+    "uptimeDay": "14.53%",
+    "uptimeWeek": "14.53%",
+    "uptimeMonth": "14.53%",
+    "uptimeYear": "14.53%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 6
+    }
+  },
+  {
+    "name": "RM-Flex (London Core)",
+    "url": "https://api.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/api.resort-manager.com.ico",
+    "slug": "rm-flex-london-core",
+    "status": "down",
+    "uptime": "16.73%",
+    "uptimeDay": "16.73%",
+    "uptimeWeek": "16.73%",
+    "uptimeMonth": "16.73%",
+    "uptimeYear": "16.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 5
+    }
+  },
+  {
+    "name": "RM-Flex (Bangkok Gateway)",
+    "url": "https://api.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/api.resort-manager.com.ico",
+    "slug": "rm-flex-bangkok-gateway",
+    "status": "down",
+    "uptime": "20.82%",
+    "uptimeDay": "20.82%",
+    "uptimeWeek": "20.82%",
+    "uptimeMonth": "20.82%",
+    "uptimeYear": "20.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 4
+    }
+  },
+  {
+    "name": "RM-Flex (Jakarta / Bali Gateway)",
+    "url": "https://api.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/api.resort-manager.com.ico",
+    "slug": "rm-flex-jakarta-bali-gateway",
+    "status": "down",
+    "uptime": "26.02%",
+    "uptimeDay": "26.02%",
+    "uptimeWeek": "26.02%",
+    "uptimeMonth": "26.02%",
+    "uptimeYear": "26.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 3
+    }
+  },
+  {
+    "name": "RM-Desk (London Core)",
+    "url": "https://desk.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/desk.resort-manager.com.ico",
+    "slug": "rm-desk-london-core",
+    "status": "down",
+    "uptime": "8.18%",
+    "uptimeDay": "8.18%",
+    "uptimeWeek": "8.18%",
+    "uptimeMonth": "8.18%",
+    "uptimeYear": "8.18%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 3
+    }
+  },
+  {
+    "name": "RM-Desk (Singapore Hub)",
+    "url": "https://desk.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/desk.resort-manager.com.ico",
+    "slug": "rm-desk-singapore-hub",
+    "status": "down",
+    "uptime": "8.48%",
+    "uptimeDay": "8.48%",
+    "uptimeWeek": "8.48%",
+    "uptimeMonth": "8.48%",
+    "uptimeYear": "8.48%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 2
+    }
+  },
+  {
+    "name": "RM-WiFi (Singapore Hub)",
+    "url": "https://wifi.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/wifi.resort-manager.com.ico",
+    "slug": "rm-wi-fi-singapore-hub",
+    "status": "down",
+    "uptime": "9.72%",
+    "uptimeDay": "9.72%",
+    "uptimeWeek": "9.72%",
+    "uptimeMonth": "9.72%",
+    "uptimeYear": "9.72%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 2
+    }
+  },
+  {
+    "name": "RM-WiFi (Bangkok Edge)",
+    "url": "https://wifi.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/wifi.resort-manager.com.ico",
+    "slug": "rm-wi-fi-bangkok-edge",
+    "status": "down",
+    "uptime": "13.28%",
+    "uptimeDay": "13.28%",
+    "uptimeWeek": "13.28%",
+    "uptimeMonth": "13.28%",
+    "uptimeYear": "13.28%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 2
+    }
+  },
+  {
+    "name": "RM-WiFi (Jakarta / Bali Edge)",
+    "url": "https://wifi.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/wifi.resort-manager.com.ico",
+    "slug": "rm-wi-fi-jakarta-bali-edge",
+    "status": "down",
+    "uptime": "13.52%",
+    "uptimeDay": "13.52%",
+    "uptimeWeek": "13.52%",
+    "uptimeMonth": "13.52%",
+    "uptimeYear": "13.52%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 1
+    }
+  },
+  {
+    "name": "RM-Tables (Singapore Hub)",
+    "url": "https://tables.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/tables.resort-manager.com.ico",
+    "slug": "rm-tables-singapore-hub",
+    "status": "down",
+    "uptime": "15.34%",
+    "uptimeDay": "15.34%",
+    "uptimeWeek": "15.34%",
+    "uptimeMonth": "15.34%",
+    "uptimeYear": "15.34%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 1
+    }
+  },
+  {
+    "name": "RM-Tables (Bangkok Edge)",
+    "url": "https://tables.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/tables.resort-manager.com.ico",
+    "slug": "rm-tables-bangkok-edge",
+    "status": "down",
+    "uptime": "21.89%",
+    "uptimeDay": "21.89%",
+    "uptimeWeek": "21.89%",
+    "uptimeMonth": "21.89%",
+    "uptimeYear": "21.89%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 1
+    }
+  },
+  {
+    "name": "RM-Tables (Jakarta / Bali Edge)",
+    "url": "https://tables.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/tables.resort-manager.com.ico",
+    "slug": "rm-tables-jakarta-bali-edge",
+    "status": "down",
+    "uptime": "26.82%",
+    "uptimeDay": "26.82%",
+    "uptimeWeek": "26.82%",
+    "uptimeMonth": "26.82%",
+    "uptimeYear": "26.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 1
+    }
+  },
+  {
+    "name": "RM-CRM (Singapore Hub)",
+    "url": "https://crm.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/crm.resort-manager.com.ico",
+    "slug": "rm-crm-singapore-hub",
+    "status": "down",
+    "uptime": "36.12%",
+    "uptimeDay": "36.12%",
+    "uptimeWeek": "36.12%",
+    "uptimeMonth": "36.12%",
+    "uptimeYear": "36.12%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 0
+    }
+  },
+  {
+    "name": "RM-CRM (London Core)",
+    "url": "https://crm.resort-manager.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/crm.resort-manager.com.ico",
+    "slug": "rm-crm-london-core",
+    "status": "down",
+    "uptime": "63.20%",
+    "uptimeDay": "63.20%",
+    "uptimeWeek": "63.20%",
+    "uptimeMonth": "63.20%",
+    "uptimeYear": "63.20%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-10-31": 0
+    }
+  }
+]
