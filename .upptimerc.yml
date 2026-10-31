@@ -1,6 +1,6 @@
 # Upptime Configuration for Resort Manager
 # Official documentation: https://upptime.js.org/docs/configuration
-# Initialized: 2026-10-31
+# Updated: 2026-10-31 with verified live edge health endpoints
 
 owner: MarkLFT
 repo: ResortManager.Status
@@ -29,77 +29,77 @@ status-website:
 sites:
   # --- RM-Flex (Cloud PMS, Booking Engine & Channel Manager) ---
   - name: RM-Flex (Singapore Hub)
-    url: https://api.resort-manager.com/healthz
+    url: https://api-be.resortmanagerflex.com/health
     type: globalping
     location: singapore
     icon: https://resort-manager.com/img/icon-flex.webp
 
   - name: RM-Flex (London Core)
-    url: https://api.resort-manager.com/healthz
+    url: https://api-be.resortmanagerflex.com/health
     type: globalping
     location: london
 
   - name: RM-Flex (Bangkok Gateway)
-    url: https://api.resort-manager.com/healthz
+    url: https://api-be.resortmanagerflex.com/health
     type: globalping
     location: bangkok
 
-  - name: RM-Flex (Jakarta / Bali Gateway)
-    url: https://api.resort-manager.com/healthz
+  - name: RM-Flex (Jakarta Gateway)
+    url: https://api-be.resortmanagerflex.com/health
     type: globalping
     location: jakarta
 
   # --- RM-Desk (Customer Service Desk & Ticketing) ---
   - name: RM-Desk (London Core)
-    url: https://desk.resort-manager.com/healthz
+    url: https://admin.rm-desk.com/health/ready
     type: globalping
     location: london
 
   - name: RM-Desk (Singapore Hub)
-    url: https://desk.resort-manager.com/healthz
+    url: https://admin.rm-desk.com/health/ready
     type: globalping
     location: singapore
 
   # --- RM-WiFi (Captive Portal & RADIUS Cloud) ---
   - name: RM-WiFi (Singapore Hub)
-    url: https://wifi.resort-manager.com/healthz
+    url: https://admin.rm-wifi.com/health/ready
     type: globalping
     location: singapore
 
   - name: RM-WiFi (Bangkok Edge)
-    url: https://wifi.resort-manager.com/healthz
+    url: https://admin.rm-wifi.com/health/ready
     type: globalping
     location: bangkok
 
   - name: RM-WiFi (Jakarta / Bali Edge)
-    url: https://wifi.resort-manager.com/healthz
+    url: https://admin.rm-wifi.com/health/ready
     type: globalping
     location: jakarta
 
   # --- RM-Tables (Restaurant Reservations & WhatsApp AI Concierge) ---
   - name: RM-Tables (Singapore Hub)
-    url: https://tables.resort-manager.com/healthz
+    url: https://qa-admin.rm-tables.com/health/ready
     type: globalping
     location: singapore
 
   - name: RM-Tables (Bangkok Edge)
-    url: https://tables.resort-manager.com/healthz
+    url: https://qa-admin.rm-tables.com/health/ready
     type: globalping
     location: bangkok
 
   - name: RM-Tables (Jakarta / Bali Edge)
-    url: https://tables.resort-manager.com/healthz
+    url: https://qa-admin.rm-tables.com/health/ready
     type: globalping
     location: jakarta
 
   # --- RM-CRM (Guest Profiles & Automated Marketing) ---
   - name: RM-CRM (Singapore Hub)
-    url: https://crm.resort-manager.com/healthz
+    url: https://admin.rm-crm.com/health/ready
     type: globalping
     location: singapore
 
   - name: RM-CRM (London Core)
-    url: https://crm.resort-manager.com/healthz
+    url: https://admin.rm-crm.com/health/ready
     type: globalping
     location: london
 
@@ -116,8 +116,3 @@ workflowSchedule:
 # Issue tracking and incident management
 assignees:
   - MarkLFT
-
-# Notification channels (can connect Slack, Discord, Telegram, or Webhooks)
-# notifications:
-#   - type: slack
-#     webhookUrl: "$SLACK_WEBHOOK_URL"
