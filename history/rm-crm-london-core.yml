@@ -1,7 +1,7 @@
 url: https://admin.rm-crm.com/health/ready
-status: down
-code: 503
-responseTime: 32
-lastUpdated: 2026-11-12T03:32:30.673Z
+status: up
+code: 200
+responseTime: 275
+lastUpdated: 2026-11-12T18:37:00.501Z
 startTime: 2026-10-31T02:28:34.552Z
 generator: Upptime <https://github.com/upptime/upptime>
